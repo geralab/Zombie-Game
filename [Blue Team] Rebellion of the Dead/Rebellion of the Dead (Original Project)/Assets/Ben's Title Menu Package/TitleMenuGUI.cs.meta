@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0d622b3ef91b6a4d8966422e4be04a0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - logo: {fileID: 2800000, guid: be96ea3cedd331e4993d53029e8fdfe5, type: 3}
+  - titleImg: {fileID: 2800000, guid: bea73560d8d1b1d4abf86a955698cf1e, type: 3}
+  - campaignImg: {fileID: 2800000, guid: 84253d9da2fcfe5479d65a5c5eacfe49, type: 3}
+  - avImg: {fileID: 2800000, guid: 6f0cc99641183554f9fdd070a6d82673, type: 3}
+  - ctrlsImg: {fileID: 2800000, guid: 184fb191f519fea4e8614a2303ab6ee9, type: 3}
+  - creditsImg: {fileID: 2800000, guid: 96ba725372a8eed43aa202d6d4709759, type: 3}
+  - bgm: {fileID: 8300000, guid: eca791ed91c94564a85a8d60644d7fec, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: f21a1695d3cc7144298ebcaa06d4d952
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Contemporary_suburban_house_01
+    100002: ID54
+    100004: ID62
+    100006: ID68
+    100008: ID74
+    100010: ID80
+    100012: instance_0
+    100014: instance_1
+    100016: instance_10
+    100018: instance_11
+    100020: instance_12
+    100022: instance_13
+    100024: instance_14
+    100026: instance_15
+    100028: instance_16
+    100030: instance_17
+    100032: instance_18
+    100034: instance_19
+    100036: instance_2
+    100038: instance_20
+    100040: instance_21
+    100042: instance_22
+    100044: instance_23
+    100046: instance_24
+    100048: instance_25
+    100050: instance_26
+    100052: instance_27
+    100054: instance_28
+    100056: instance_29
+    100058: instance_3
+    100060: instance_30
+    100062: instance_31
+    100064: instance_32
+    100066: instance_33
+    100068: instance_4
+    100070: instance_5
+    100072: instance_6
+    100074: instance_7
+    100076: instance_8
+    100078: instance_9
+    100080: //RootNode
+    100082: window
+    100084: window 1
+    100086: window 10
+    100088: window 11
+    100090: window 12
+    100092: window 13
+    100094: window 14
+    100096: window 15
+    100098: window 16
+    100100: window 17
+    100102: window 18
+    100104: window 19
+    100106: window 2
+    100108: window 20
+    100110: window 21
+    100112: window 22
+    100114: window 23
+    100116: window 24
+    100118: window 25
+    100120: window 26
+    100122: window 27
+    100124: window 28
+    100126: window 29
+    100128: window 3
+    100130: window 30
+    100132: window 31
+    100134: window 32
+    100136: window 4
+    100138: window 5
+    100140: window 6
+    100142: window 7
+    100144: window 8
+    100146: window 9
+    400000: Contemporary_suburban_house_01
+    400002: ID54
+    400004: ID62
+    400006: ID68
+    400008: ID74
+    400010: ID80
+    400012: instance_0
+    400014: instance_1
+    400016: instance_10
+    400018: instance_11
+    400020: instance_12
+    400022: instance_13
+    400024: instance_14
+    400026: instance_15
+    400028: instance_16
+    400030: instance_17
+    400032: instance_18
+    400034: instance_19
+    400036: instance_2
+    400038: instance_20
+    400040: instance_21
+    400042: instance_22
+    400044: instance_23
+    400046: instance_24
+    400048: instance_25
+    400050: instance_26
+    400052: instance_27
+    400054: instance_28
+    400056: instance_29
+    400058: instance_3
+    400060: instance_30
+    400062: instance_31
+    400064: instance_32
+    400066: instance_33
+    400068: instance_4
+    400070: instance_5
+    400072: instance_6
+    400074: instance_7
+    400076: instance_8
+    400078: instance_9
+    400080: //RootNode
+    400082: window
+    400084: window 1
+    400086: window 10
+    400088: window 11
+    400090: window 12
+    400092: window 13
+    400094: window 14
+    400096: window 15
+    400098: window 16
+    400100: window 17
+    400102: window 18
+    400104: window 19
+    400106: window 2
+    400108: window 20
+    400110: window 21
+    400112: window 22
+    400114: window 23
+    400116: window 24
+    400118: window 25
+    400120: window 26
+    400122: window 27
+    400124: window 28
+    400126: window 29
+    400128: window 3
+    400130: window 30
+    400132: window 31
+    400134: window 32
+    400136: window 4
+    400138: window 5
+    400140: window 6
+    400142: window 7
+    400144: window 8
+    400146: window 9
+    2300000: Contemporary_suburban_house_01
+    2300002: ID54
+    2300004: ID62
+    2300006: ID68
+    2300008: ID74
+    2300010: ID80
+    2300012: window
+    2300014: window 1
+    2300016: window 10
+    2300018: window 11
+    2300020: window 12
+    2300022: window 13
+    2300024: window 14
+    2300026: window 15
+    2300028: window 16
+    2300030: window 17
+    2300032: window 18
+    2300034: window 19
+    2300036: window 2
+    2300038: window 20
+    2300040: window 21
+    2300042: window 22
+    2300044: window 23
+    2300046: window 24
+    2300048: window 25
+    2300050: window 26
+    2300052: window 27
+    2300054: window 28
+    2300056: window 29
+    2300058: window 3
+    2300060: window 30
+    2300062: window 31
+    2300064: window 32
+    2300066: window 4
+    2300068: window 5
+    2300070: window 6
+    2300072: window 7
+    2300074: window 8
+    2300076: window 9
+    3300000: Contemporary_suburban_house_01
+    3300002: ID54
+    3300004: ID62
+    3300006: ID68
+    3300008: ID74
+    3300010: ID80
+    3300012: window
+    3300014: window 1
+    3300016: window 10
+    3300018: window 11
+    3300020: window 12
+    3300022: window 13
+    3300024: window 14
+    3300026: window 15
+    3300028: window 16
+    3300030: window 17
+    3300032: window 18
+    3300034: window 19
+    3300036: window 2
+    3300038: window 20
+    3300040: window 21
+    3300042: window 22
+    3300044: window 23
+    3300046: window 24
+    3300048: window 25
+    3300050: window 26
+    3300052: window 27
+    3300054: window 28
+    3300056: window 29
+    3300058: window 3
+    3300060: window 30
+    3300062: window 31
+    3300064: window 32
+    3300066: window 4
+    3300068: window 5
+    3300070: window 6
+    3300072: window 7
+    3300074: window 8
+    3300076: window 9
+    4300000: Contemporary_suburban_house_01
+    4300002: ID54
+    4300004: ID62
+    4300006: ID68
+    4300008: ID74
+    4300010: ID80
+    4300012: window
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

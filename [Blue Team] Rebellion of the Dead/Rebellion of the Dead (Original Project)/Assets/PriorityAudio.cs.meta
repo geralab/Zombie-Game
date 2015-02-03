@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8fb79ba2abc1264b971b888ebe04e29
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buildingBreakingClip: {fileID: 8300000, guid: 7bd094337276f034e94f00e6547378ed,
+      type: 3}
+  - y1: {fileID: 8300000, guid: 426a6f5e229ea0d4db62505ab4d0e9a4, type: 3}
+  - y2: {fileID: 8300000, guid: 1b16445e495657140aa763ae24b79550, type: 3}
+  - y3: {fileID: 8300000, guid: 9907a7db715b29d4690aefb4f0b7f71d, type: 3}
+  - y4: {fileID: 8300000, guid: f25ca5b31ced9874d8a931c447ea21af, type: 3}
+  - s1: {fileID: 8300000, guid: 2f18a27ab29868a4eb7f78daebcc7b09, type: 3}
+  - s2: {fileID: 8300000, guid: b874c3bf51ceb684e95e9ad9553586af, type: 3}
+  - s3: {fileID: 8300000, guid: 86e4b2327e4f9fc4ea8ca6199f6079a8, type: 3}
+  - s4: {fileID: 8300000, guid: 319897943acf8474ca7b153c6a8931ac, type: 3}
+  - s5: {fileID: 8300000, guid: baba51887953abf4abfffb1e2aa4fdf7, type: 3}
+  - s6: {fileID: 8300000, guid: 684fce323092ca04ba570a2918df57f5, type: 3}
+  - winClip: {fileID: 8300000, guid: 92b2cdca3b7cfe9468f717f329a3caab, type: 3}
+  - loseClip: {fileID: 8300000, guid: 7dbb28031cf3a2a489751c1ba3434603, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
